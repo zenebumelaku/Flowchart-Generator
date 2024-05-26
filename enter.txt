@@ -1,4 +1,4 @@
-OUTPUT "are we insane?"
+OUTPUT "are we HAPPY?"
 INPUT ans
 IF ans = "yes" THEN
 	OUTPUT "correct"
